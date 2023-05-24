@@ -1,0 +1,8 @@
+[Desktop Entry]
+Comment=Unlock the sensitive files.
+Icon=./thumbnail/unlock.jpeg
+Exec=python ./source/decryption.py
+Name=unlock
+StartupNotify=true
+Terminal=true
+Type=Application

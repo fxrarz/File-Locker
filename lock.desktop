@@ -1,0 +1,8 @@
+[Desktop Entry]
+Comment=Lock the sensitive files.
+Icon=./thumbnail/lock.jpg
+Exec=python3 ./source/encryption.py
+Name=lock
+StartupNotify=true
+Terminal=true
+Type=Application
