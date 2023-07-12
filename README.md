@@ -12,3 +12,7 @@ To Decrypt
 python3 run.py dec secure-password
 ```
 
+# To Do
+- [ ] deploy using docker
+- [ ] add multi-file encryption
+- [ ] create clickable files for starting encryption and decryption script
